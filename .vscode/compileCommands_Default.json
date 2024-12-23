@@ -1,0 +1,50 @@
+[
+	{
+		"file": "C:\\ueprojects\\SlatePractice\\Plugins\\SlateUI\\Source\\SlateUI\\Private\\SlateUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\ueprojects\\SlatePractice\\.vscode\\compileCommands_Default\\SlateUI.29.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\ueprojects\\SlatePractice\\Plugins\\SlateUI\\Source\\SlateUI\\Public\\SlateUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\ueprojects\\SlatePractice\\.vscode\\compileCommands_Default\\SlateUI.29.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\ueprojects\\SlatePractice\\Plugins\\SlateUI\\Source\\SlateUI\\SlateUI.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\ueprojects\\SlatePractice\\.vscode\\compileCommands_Default\\SlateUI.29.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\ueprojects\\SlatePractice\\Source\\SlatePractice\\SlatePractice.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\ueprojects\\SlatePractice\\.vscode\\compileCommands_Default\\SlatePractice.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\ueprojects\\SlatePractice\\Source\\SlatePractice\\SlatePractice.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\ueprojects\\SlatePractice\\.vscode\\compileCommands_Default\\SlatePractice.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\ueprojects\\SlatePractice\\Source\\SlatePractice\\SlatePractice.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\ueprojects\\SlatePractice\\.vscode\\compileCommands_Default\\SlatePractice.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
